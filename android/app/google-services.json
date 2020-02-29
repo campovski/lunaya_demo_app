@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158578557884",
+    "firebase_url": "https://marcel-2020.firebaseio.com",
+    "project_id": "marcel-2020",
+    "storage_bucket": "marcel-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158578557884:android:ee676bafb5805f5763a1b9",
+        "android_client_info": {
+          "package_name": "com.example.lunaya_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158578557884-tc09vktc4mof4ofpkerqt9vdsb5otqhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcHZRQG4sOQo7HsOOk9dhPBe3b7ZSpiSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158578557884-tc09vktc4mof4ofpkerqt9vdsb5otqhl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158578557884-gptord6tv3f2645ietlq521p6ug9ut7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lunayaDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
